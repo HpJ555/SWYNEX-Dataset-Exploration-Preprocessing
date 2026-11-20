@@ -1,0 +1,5 @@
+Model,Silhouette Score,Davies-Bouldin Score,Calinski-Harabasz Score
+Original K-Means,0.3498,1.0245,97.2583
+Improved K-Means,0.3502702043465398,1.0650090503369551,101.48726473051549
+Original Agglomerative,0.3478,1.0686,91.2778
+Improved Agglomerative,0.3404764937897312,1.0341672928753236,92.99085717114225
